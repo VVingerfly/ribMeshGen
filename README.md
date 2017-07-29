@@ -2,4 +2,4 @@
 
 VS2015 + OpenMesh
 
-Make the edges of a polygon mesh to a bar.
+Make each edge of a polygon mesh to a bar, which I called a rib mesh here.
